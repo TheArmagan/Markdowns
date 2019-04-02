@@ -24,7 +24,7 @@ __Dönüştür__
 
 - GET **[/donustur/binary](https://rastgele-api.glitch.me/api/donustur/binary)**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
 
-` `
+---
 
 <details>
   <summary>+18 (Click To Toggle)</summary>
@@ -36,7 +36,7 @@ __NSFW__
 
 </details>
 
-` `
+---
 
 <details>
   <summary>Notlar</summary>
@@ -47,6 +47,8 @@ __NSFW__
 </details>
 
 # Usages
+
+__Urban Dictionary__
 
 GET `https://rastgele-api.glitch.me/api/urban?girdi=minecraft`
 
@@ -235,5 +237,5 @@ GET `https://rastgele-api.glitch.me/api/urban?girdi=minecraft`
   ```
 </details>
 
-
+---
 
