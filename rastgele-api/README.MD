@@ -5,15 +5,15 @@ __**Bitiş Noktaları**__
 
 **Suffixler:**
 
-- **/ip**: Kendi ipniz.
-- **/olabilirmi**: Evet veya hayır ama daha iyisi.
-- **/rastgelesayi**: Rastgele sayı oluşturmanızı sağlar.
-- **/lenny**: Rastgele lenny face atar.. ( ͡° ͜ʖ ͡°)
-- **/havaliyaz**: Ａｙｎｅｎ  ｂｕ  ｓｅｋｉｌｄｅ  ｙａｚｍａｎｉｚｉ  ｓａｇｌａｒ．(Ve Daha Fazla Şekilde)
-- **/espiri**: Tonla espiri arasından rastgele bir espiri seçer.  *Bazı insanlar boş daire gibi… Dayayıp döşeyesim geliyor.*
-- **/urban**: Urban Dictionary'de birşeyler aratmanızı sağlar.
-- **/yazitura**: Yazı, tura atar. Ayrıca Resminide Verir.
-- **/hashtag**: why not.
+- **[/ip](/ip)**: Kendi ipniz.
+- **[https://rastgele-api.glitch.me/api/olabilirmi](/olabilirmi)**: Evet veya hayır ama daha iyisi.
+- **[https://rastgele-api.glitch.me/api/rastgelesayi](/rastgelesayi)**: Rastgele sayı oluşturmanızı sağlar.
+- **[https://rastgele-api.glitch.me/api/lenny](/lenny)**: Rastgele lenny face atar.. ( ͡° ͜ʖ ͡°)
+- **[https://rastgele-api.glitch.me/api/havaliyaz](/havaliyaz)**: Ａｙｎｅｎ  ｂｕ  ｓｅｋｉｌｄｅ  ｙａｚｍａｎｉｚｉ  ｓａｇｌａｒ．(Ve Daha Fazla Şekilde)
+- **[https://rastgele-api.glitch.me/api/espiri](/espiri)**: Tonla espiri arasından rastgele bir espiri seçer.  *Bazı insanlar boş daire gibi… Dayayıp döşeyesim geliyor.*
+- **[https://rastgele-api.glitch.me/api/urban](/urban)**: Urban Dictionary'de birşeyler aratmanızı sağlar.
+- **[https://rastgele-api.glitch.me/api/yazitura](/yazitura)**: Yazı, tura atar. Ayrıca Resminide Verir.
+- **[https://rastgele-api.glitch.me/api/hashtag](/hashtag)**: why not.
 
 **__Minecraft__**
 
