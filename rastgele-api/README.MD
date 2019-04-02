@@ -1,9 +1,7 @@
 
-__**Bitiş Noktaları**__
+__**Rastgele API End Points**__
 
 **Base:** https://rastgele-api.glitch.me/api
-
-**Suffixler:**
 
 - GET **[/ip](https://rastgele-api.glitch.me/api/ip)**: Kendi ipniz.
 - GET **[/rastgele-ip](https://rastgele-api.glitch.me/api/rastgele-ip)**: Rastgele ip üretir.
@@ -19,8 +17,8 @@ __**Bitiş Noktaları**__
 
 **__Minecraft__**
 
-- GET **[/java/isim-gecmisi](https://rastgele-api.glitch.me/api/mc/java/isim-gecmisi)**: Minecraft oyuncularının isim geçmişi.
-- GET **[/java/sunucu-bilgi](https://rastgele-api.glitch.me/api/mc/java/sunucu-bilgi)**: Sunucu bilgisi aktif kişi falan.
+- GET **[/mc/java/isim-gecmisi](https://rastgele-api.glitch.me/api/mc/java/isim-gecmisi)**: Minecraft oyuncularının isim geçmişi.
+- GET **[/mc/java/sunucu-bilgi](https://rastgele-api.glitch.me/api/mc/java/sunucu-bilgi)**: Sunucu bilgisi aktif kişi falan.
 
 __**Dönüştür**__
 
