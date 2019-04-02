@@ -48,9 +48,13 @@ __**Dönüştür**__
 </details>
 
 ` `
+
 ` `
+
 ` `
+
 ` `
+
 ` `
 
 > **1.** Apiden gelen her cevap türkçedir.
