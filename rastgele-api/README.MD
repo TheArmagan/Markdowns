@@ -1,5 +1,5 @@
 
-__**Rastgele API End Points**__
+__Rastgele API End Points__
 
 **Base:** https://rastgele-api.glitch.me/api
 
@@ -24,7 +24,6 @@ __Dönüştür__
 
 - GET **[/donustur/binary](https://rastgele-api.glitch.me/api/donustur/binary)**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
 
----
 
 <details>
   <summary>+18 (Click To Toggle)</summary>
@@ -36,7 +35,6 @@ __NSFW__
 
 </details>
 
----
 
 <details>
   <summary>Notlar</summary>
@@ -45,6 +43,8 @@ __NSFW__
 
 > **2.** Api rate-limiti __dakikada 100__ istekdir.
 </details>
+
+---
 
 # Usages
 
