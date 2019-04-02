@@ -6,7 +6,7 @@ __**Bitiş Noktaları**__
 
 **Suffixler:**
 
--**/ip**: Kendi ipniz.
+- **/ip**: Kendi ipniz.
 - **/olabilirmi**: Evet veya hayır ama daha iyisi.
 - **/rastgelesayi**: Rastgele sayı oluşturmanızı sağlar.
 - **/lenny**: Rastgele lenny face atar.. ( ͡° ͜ʖ ͡°)
