@@ -1,8 +1,7 @@
 
 __**Bitiş Noktaları**__
 
-**Base**
-- https://rastgele-api.glitch.me/api
+**Base:** https://rastgele-api.glitch.me/api
 
 **Suffixler:**
 
@@ -18,8 +17,7 @@ __**Bitiş Noktaları**__
 
 **__Minecraft__**
 
-**Base**
-- https://rastgele-api.glitch.me/api/mc
+**Base:** https://rastgele-api.glitch.me/api/mc
 
 **Suffixler:**
 
@@ -28,8 +26,7 @@ __**Bitiş Noktaları**__
 
 __**Dönüştür**__
 
-**Base**
-- https://rastgele-api.glitch.me/api/donustur
+**Base:** https://rastgele-api.glitch.me/api/donustur
 
 **Suffixler:**
 
@@ -37,8 +34,7 @@ __**Dönüştür**__
 
 __**Rastgele**__
 
-**Base**
-- https://rastgele-api.glitch.me/api/rastgele
+**Base:** https://rastgele-api.glitch.me/api/rastgele
 
 **Suffixler:**
 
@@ -47,8 +43,7 @@ __**Rastgele**__
 
 __**NSFW**__
 
-**Base**
-http://rastgele-api.glitch.me/api/nsfw
+**Base:** http://rastgele-api.glitch.me/api/nsfw
 
 **Suffixler:**
 - **/video** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
