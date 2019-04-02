@@ -6,8 +6,8 @@ __**Bitiş Noktaları**__
 **Suffixler:**
 
 - **[/ip](https://rastgele-api.glitch.me/api/ip)**: Kendi ipniz.
-- **/rastgele-ip**: Rastgele ip üretir.
-- **/rastgele-ip/v6**: Rastgele ipV6 Üretir.
+- **[/rastgele-ip](https://rastgele-api.glitch.me/api/rastgele-ip)**: Rastgele ip üretir.
+- **[/rastgele-ip/v6](https://rastgele-api.glitch.me/api/rastgele-ip/v6)**: Rastgele ipV6 Üretir.
 - **[/olabilirmi](https://rastgele-api.glitch.me/api/olabilirmi)**: Evet veya hayır ama daha iyisi.
 - **[/rastgelesayi](https://rastgele-api.glitch.me/api/rastgelesayi)**: Rastgele sayı oluşturmanızı sağlar.
 - **[/lenny](https://rastgele-api.glitch.me/api/lenny)**: Rastgele lenny face atar.. ( ͡° ͜ʖ ͡°)
@@ -52,6 +52,7 @@ __**Dönüştür**__
 
 <details>
   <summary>Notlar</summary>
+  
 > **1.** Apiden gelen her cevap türkçedir.
 
 > **2.** Api rate-limiti __dakikada 100__ istekdir.
