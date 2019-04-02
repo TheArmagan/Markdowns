@@ -5,17 +5,17 @@ __**Bitiş Noktaları**__
 
 **Suffixler:**
 
-- **[/ip](https://rastgele-api.glitch.me/api/ip)**: Kendi ipniz.
-- **[/rastgele-ip](https://rastgele-api.glitch.me/api/rastgele-ip)**: Rastgele ip üretir.
-- **[/rastgele-ip/v6](https://rastgele-api.glitch.me/api/rastgele-ip/v6)**: Rastgele ipV6 Üretir.
-- **[/olabilirmi](https://rastgele-api.glitch.me/api/olabilirmi)**: Evet veya hayır ama daha iyisi.
-- **[/rastgelesayi](https://rastgele-api.glitch.me/api/rastgelesayi)**: Rastgele sayı oluşturmanızı sağlar.
-- **[/lenny](https://rastgele-api.glitch.me/api/lenny)**: Rastgele lenny face atar.. ( ͡° ͜ʖ ͡°)
-- **[/havaliyaz](https://rastgele-api.glitch.me/api/havaliyaz)**: Ａｙｎｅｎ  ｂｕ  ｓｅｋｉｌｄｅ  ｙａｚｍａｎｉｚｉ  ｓａｇｌａｒ．(Ve Daha Fazla Şekilde)
-- **[/espiri](https://rastgele-api.glitch.me/api/espiri)**: Tonla espiri arasından rastgele bir espiri seçer.  *Bazı insanlar boş daire gibi… Dayayıp döşeyesim geliyor.*
-- **[/urban](https://rastgele-api.glitch.me/api/urban)**: Urban Dictionary'de birşeyler aratmanızı sağlar.
-- **[/yazitura](https://rastgele-api.glitch.me/api/yazitura)**: Yazı, tura atar. Ayrıca Resminide Verir.
-- **[/hashtag](https://rastgele-api.glitch.me/api/hashtag)**: why not.
+- GET **[/ip](https://rastgele-api.glitch.me/api/ip)**: Kendi ipniz.
+- GET **[/rastgele-ip](https://rastgele-api.glitch.me/api/rastgele-ip)**: Rastgele ip üretir.
+- GET **[/rastgele-ip/v6](https://rastgele-api.glitch.me/api/rastgele-ip/v6)**: Rastgele ipV6 Üretir.
+- GET **[/olabilirmi](https://rastgele-api.glitch.me/api/olabilirmi)**: Evet veya hayır ama daha iyisi.
+- GET **[/rastgelesayi](https://rastgele-api.glitch.me/api/rastgelesayi)**: Rastgele sayı oluşturmanızı sağlar.
+- GET **[/lenny](https://rastgele-api.glitch.me/api/lenny)**: Rastgele lenny face atar.. ( ͡° ͜ʖ ͡°)
+- GET **[/havaliyaz](https://rastgele-api.glitch.me/api/havaliyaz)**: Ａｙｎｅｎ  ｂｕ  ｓｅｋｉｌｄｅ  ｙａｚｍａｎｉｚｉ  ｓａｇｌａｒ．(Ve Daha Fazla Şekilde)
+- GET **[/espiri](https://rastgele-api.glitch.me/api/espiri)**: Tonla espiri arasından rastgele bir espiri seçer.  *Bazı insanlar boş daire gibi… Dayayıp döşeyesim geliyor.*
+- GET **[/urban](https://rastgele-api.glitch.me/api/urban)**: Urban Dictionary'de birşeyler aratmanızı sağlar.
+- GET **[/yazitura](https://rastgele-api.glitch.me/api/yazitura)**: Yazı, tura atar. Ayrıca Resminide Verir.
+- GET **[/hashtag](https://rastgele-api.glitch.me/api/hashtag)**: why not.
 
 **__Minecraft__**
 
@@ -23,8 +23,8 @@ __**Bitiş Noktaları**__
 
 **Suffixler:**
 
-- **[/java/isim-gecmisi](https://rastgele-api.glitch.me/api/mc/java/isim-gecmisi)**: Minecraft oyuncularının isim geçmişi.
-- **[/java/sunucu-bilgi](https://rastgele-api.glitch.me/api/mc/java/sunucu-bilgi)**: Sunucu bilgisi aktif kişi falan.
+- GET **[/java/isim-gecmisi](https://rastgele-api.glitch.me/api/mc/java/isim-gecmisi)**: Minecraft oyuncularının isim geçmişi.
+- GET **[/java/sunucu-bilgi](https://rastgele-api.glitch.me/api/mc/java/sunucu-bilgi)**: Sunucu bilgisi aktif kişi falan.
 
 __**Dönüştür**__
 
@@ -32,7 +32,7 @@ __**Dönüştür**__
 
 **Suffixler:**
 
-- **[/binary](https://rastgele-api.glitch.me/api/donustur/binary)**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
+- GET **[/binary](https://rastgele-api.glitch.me/api/donustur/binary)**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
 
 ` `
 
@@ -43,8 +43,8 @@ __**Dönüştür**__
 **Base:** http://rastgele-api.glitch.me/api/nsfw
 
 **Suffixler:**
-- **[/video](http://rastgele-api.glitch.me/api/nsfw/video)** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
-- **[/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - P()rn() Gifleri (`sex.com, pornhub.com`)
+- GET **[/video](http://rastgele-api.glitch.me/api/nsfw/video)** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
+- GET **[/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - P()rn() Gifleri (`sex.com, pornhub.com`)
 
 </details>
 
