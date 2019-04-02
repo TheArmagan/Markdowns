@@ -5,7 +5,7 @@ __**Bitiş Noktaları**__
 
 **Suffixler:**
 
-- **[/ip](/ip)**: Kendi ipniz.
+- **[/ip](https://rastgele-api.glitch.me/api/ip)**: Kendi ipniz.
 - **[/olabilirmi](https://rastgele-api.glitch.me/api/olabilirmi)**: Evet veya hayır ama daha iyisi.
 - **[/rastgelesayi](https://rastgele-api.glitch.me/api/rastgelesayi)**: Rastgele sayı oluşturmanızı sağlar.
 - **[/lenny](https://rastgele-api.glitch.me/api/lenny)**: Rastgele lenny face atar.. ( ͡° ͜ʖ ͡°)
