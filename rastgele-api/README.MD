@@ -34,10 +34,13 @@ __**Dönüştür**__
 
 - **[/binary](https://rastgele-api.glitch.me/api/donustur/binary)**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
 
+` `
+
+` `
 
 <details>
   
-<summary>NSFW</summary>
+<summary>NSFW API</summary>
 
 **Base:** http://rastgele-api.glitch.me/api/nsfw
 
@@ -53,11 +56,10 @@ __**Dönüştür**__
 
 ` `
 
-` `
-
-` `
-
+<details>
+  <summary>Notlar</summary>
 > **1.** Apiden gelen her cevap türkçedir.
 
 > **2.** Api rate-limiti __dakikada 100__ istekdir.
+</details>
 
