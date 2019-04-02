@@ -19,32 +19,20 @@ __**Bitiş Noktaları**__
 
 **__Minecraft__**
 
-**Base:** https://rastgele-api.glitch.me/api/mc
-
-**Suffixler:**
-
 - GET **[/java/isim-gecmisi](https://rastgele-api.glitch.me/api/mc/java/isim-gecmisi)**: Minecraft oyuncularının isim geçmişi.
 - GET **[/java/sunucu-bilgi](https://rastgele-api.glitch.me/api/mc/java/sunucu-bilgi)**: Sunucu bilgisi aktif kişi falan.
 
 __**Dönüştür**__
 
-**Base:** https://rastgele-api.glitch.me/api/donustur
-
-**Suffixler:**
-
-- GET **[/binary](https://rastgele-api.glitch.me/api/donustur/binary)**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
+- GET **[/donustur/binary](https://rastgele-api.glitch.me/api/donustur/binary)**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
 
 ` `
 
 <details>
-  
-<summary>NSFW API</summary>
+  <summary>NSFW API</summary>
 
-**Base:** http://rastgele-api.glitch.me/api/nsfw
-
-**Suffixler:**
-- GET **[/video](http://rastgele-api.glitch.me/api/nsfw/video)** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
-- GET **[/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - P()rn() Gifleri (`sex.com, pornhub.com`)
+- GET **[/nsfw/video](http://rastgele-api.glitch.me/api/nsfw/video)** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
+- GET **[/nsfw/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - P()rn() Gifleri (`sex.com, pornhub.com`)
 
 </details>
 
