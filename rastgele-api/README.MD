@@ -15,19 +15,21 @@ __**Rastgele API End Points**__
 - GET **[/yazitura](https://rastgele-api.glitch.me/api/yazitura)**: Yazı, tura atar. Ayrıca Resminide Verir.
 - GET **[/hashtag](https://rastgele-api.glitch.me/api/hashtag)**: why not.
 
-**__Minecraft__**
+__Minecraft__
 
 - GET **[/mc/java/isim-gecmisi](https://rastgele-api.glitch.me/api/mc/java/isim-gecmisi)**: Minecraft oyuncularının isim geçmişi.
 - GET **[/mc/java/sunucu-bilgi](https://rastgele-api.glitch.me/api/mc/java/sunucu-bilgi)**: Sunucu bilgisi aktif kişi falan.
 
-__**Dönüştür**__
+__Dönüştür__
 
 - GET **[/donustur/binary](https://rastgele-api.glitch.me/api/donustur/binary)**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
 
 ` `
 
 <details>
-  <summary>NSFW API</summary>
+  <summary>+18 (Click To Toggle)</summary>
+  
+__NSFW__
 
 - GET **[/nsfw/video](http://rastgele-api.glitch.me/api/nsfw/video)** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
 - GET **[/nsfw/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - P()rn() Gifleri (`sex.com, pornhub.com`)
