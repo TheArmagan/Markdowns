@@ -6,14 +6,14 @@ __**Bitiş Noktaları**__
 **Suffixler:**
 
 - **[/ip](/ip)**: Kendi ipniz.
-- **[https://rastgele-api.glitch.me/api/olabilirmi](/olabilirmi)**: Evet veya hayır ama daha iyisi.
-- **[https://rastgele-api.glitch.me/api/rastgelesayi](/rastgelesayi)**: Rastgele sayı oluşturmanızı sağlar.
-- **[https://rastgele-api.glitch.me/api/lenny](/lenny)**: Rastgele lenny face atar.. ( ͡° ͜ʖ ͡°)
-- **[https://rastgele-api.glitch.me/api/havaliyaz](/havaliyaz)**: Ａｙｎｅｎ  ｂｕ  ｓｅｋｉｌｄｅ  ｙａｚｍａｎｉｚｉ  ｓａｇｌａｒ．(Ve Daha Fazla Şekilde)
-- **[https://rastgele-api.glitch.me/api/espiri](/espiri)**: Tonla espiri arasından rastgele bir espiri seçer.  *Bazı insanlar boş daire gibi… Dayayıp döşeyesim geliyor.*
-- **[https://rastgele-api.glitch.me/api/urban](/urban)**: Urban Dictionary'de birşeyler aratmanızı sağlar.
-- **[https://rastgele-api.glitch.me/api/yazitura](/yazitura)**: Yazı, tura atar. Ayrıca Resminide Verir.
-- **[https://rastgele-api.glitch.me/api/hashtag](/hashtag)**: why not.
+- **[/olabilirmi](https://rastgele-api.glitch.me/api/olabilirmi)**: Evet veya hayır ama daha iyisi.
+- **[/rastgelesayi](https://rastgele-api.glitch.me/api/rastgelesayi)**: Rastgele sayı oluşturmanızı sağlar.
+- **[/lenny](https://rastgele-api.glitch.me/api/lenny)**: Rastgele lenny face atar.. ( ͡° ͜ʖ ͡°)
+- **[/havaliyaz](https://rastgele-api.glitch.me/api/havaliyaz)**: Ａｙｎｅｎ  ｂｕ  ｓｅｋｉｌｄｅ  ｙａｚｍａｎｉｚｉ  ｓａｇｌａｒ．(Ve Daha Fazla Şekilde)
+- **[/espiri](https://rastgele-api.glitch.me/api/espiri)**: Tonla espiri arasından rastgele bir espiri seçer.  *Bazı insanlar boş daire gibi… Dayayıp döşeyesim geliyor.*
+- **[/urban](https://rastgele-api.glitch.me/api/urban)**: Urban Dictionary'de birşeyler aratmanızı sağlar.
+- **[/yazitura](https://rastgele-api.glitch.me/api/yazitura)**: Yazı, tura atar. Ayrıca Resminide Verir.
+- **[/hashtag](https://rastgele-api.glitch.me/api/hashtag)**: why not.
 
 **__Minecraft__**
 
