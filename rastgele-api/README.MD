@@ -52,6 +52,7 @@ GET `https://rastgele-api.glitch.me/api/urban?girdi=minecraft`
 
 <details>
   <summary>Return</summary>
+  
   ```json
   {
   "hata": "yok",
