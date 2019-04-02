@@ -49,6 +49,6 @@ __**NSFW**__
 - **/video** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
 - **/gif** - P()rn() Gifleri (`sex.com, pornhub.com`)
 
-**Ek Not 1:** Apiden gelen her cevap türkçedir.
-**Ek Not 2:** Api rate-limiti __dakikada 100__ istekdir.
-** **
+> **Ek Not 1:** Apiden gelen her cevap türkçedir.
+> **Ek Not 2:** Api rate-limiti __dakikada 100__ istekdir.
+
