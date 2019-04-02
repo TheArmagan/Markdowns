@@ -6,6 +6,8 @@ __**Bitiş Noktaları**__
 **Suffixler:**
 
 - **[/ip](https://rastgele-api.glitch.me/api/ip)**: Kendi ipniz.
+- **/rastgele-ip**: Rastgele ip üretir.
+- **/rastgele-ip/v6**: Rastgele ipV6 Üretir.
 - **[/olabilirmi](https://rastgele-api.glitch.me/api/olabilirmi)**: Evet veya hayır ama daha iyisi.
 - **[/rastgelesayi](https://rastgele-api.glitch.me/api/rastgelesayi)**: Rastgele sayı oluşturmanızı sağlar.
 - **[/lenny](https://rastgele-api.glitch.me/api/lenny)**: Rastgele lenny face atar.. ( ͡° ͜ʖ ͡°)
@@ -21,8 +23,8 @@ __**Bitiş Noktaları**__
 
 **Suffixler:**
 
-- **/java/isim-gecmisi**: Minecraft oyuncularının isim geçmişi.
-- **/java/sunucu-bilgi**: Sunucu bilgisi aktif kişi falan.
+- **[/java/isim-gecmisi](https://rastgele-api.glitch.me/api/mc/java/isim-gecmisi)**: Minecraft oyuncularının isim geçmişi.
+- **[/java/sunucu-bilgi](https://rastgele-api.glitch.me/api/mc/java/sunucu-bilgi)**: Sunucu bilgisi aktif kişi falan.
 
 __**Dönüştür**__
 
@@ -30,24 +32,21 @@ __**Dönüştür**__
 
 **Suffixler:**
 
-- **/binary**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
+- **[/binary](https://rastgele-api.glitch.me/api/donustur/binary)**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
 
-__**Rastgele**__
 
-**Base:** https://rastgele-api.glitch.me/api/rastgele
-
-**Suffixler:**
-
-- **/ip**: Rastgele ip üretir.
-- **/ip/v6**: Rastgele ipv6 üretir.
-
-__**NSFW**__
+<details>
+  
+<summary>NSFW</summary>
 
 **Base:** http://rastgele-api.glitch.me/api/nsfw
 
 **Suffixler:**
-- **/video** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
-- **/gif** - P()rn() Gifleri (`sex.com, pornhub.com`)
+- **[/video](http://rastgele-api.glitch.me/api/nsfw/video)** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
+- **[/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - P()rn() Gifleri (`sex.com, pornhub.com`)
+
+<details>
+  
 
 
 
