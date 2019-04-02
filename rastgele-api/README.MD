@@ -36,8 +36,6 @@ __**Dönüştür**__
 
 ` `
 
-` `
-
 <details>
   
 <summary>NSFW API</summary>
@@ -49,10 +47,6 @@ __**Dönüştür**__
 - **[/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - P()rn() Gifleri (`sex.com, pornhub.com`)
 
 </details>
-
-` `
-
-` `
 
 ` `
 
