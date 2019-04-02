@@ -1,5 +1,5 @@
 
-__Rastgele API End Points__
+# Rastgele API End Points
 
 **Base:** https://rastgele-api.glitch.me/api
 
