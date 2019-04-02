@@ -45,7 +45,7 @@ __**Dönüştür**__
 - **[/video](http://rastgele-api.glitch.me/api/nsfw/video)** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
 - **[/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - P()rn() Gifleri (`sex.com, pornhub.com`)
 
-<details>
+</details>
   
 
 
