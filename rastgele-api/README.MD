@@ -5,6 +5,7 @@ __**Bitiş Noktaları**__
 - https://rastgele-api.glitch.me/api
 
 **Suffixler:**
+
 -**/ip**: Kendi ipniz.
 - **/olabilirmi**: Evet veya hayır ama daha iyisi.
 - **/rastgelesayi**: Rastgele sayı oluşturmanızı sağlar.
@@ -21,7 +22,7 @@ __**Bitiş Noktaları**__
 - https://rastgele-api.glitch.me/api/mc
 
 **Suffixler:**
-**JAVA**
+
 - **/java/isim-gecmisi**: Minecraft oyuncularının isim geçmişi.
 - **/java/sunucu-bilgi**: Sunucu bilgisi aktif kişi falan.
 
@@ -31,6 +32,7 @@ __**Dönüştür**__
 - https://rastgele-api.glitch.me/api/donustur
 
 **Suffixler:**
+
 - **/binary**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
 
 __**Rastgele**__
@@ -39,6 +41,7 @@ __**Rastgele**__
 - https://rastgele-api.glitch.me/api/rastgele
 
 **Suffixler:**
+
 - **/ip**: Rastgele ip üretir.
 - **/ip/v6**: Rastgele ipv6 üretir.
 
@@ -50,9 +53,6 @@ http://rastgele-api.glitch.me/api/nsfw
 **Suffixler:**
 - **/video** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
 - **/gif** - P()rn() Gifleri (`sex.com, pornhub.com`)
-
-
-**Toplam API**: 16
 
 **Ek Not 1:** Apiden gelen her cevap türkçedir.
 **Ek Not 2:** Api rate-limiti __dakikada 100__ istekdir.
