@@ -18,7 +18,6 @@
 __Minecraft__
 
 - GET **[/mc/java/isim-gecmisi](https://rastgele-api.glitch.me/api/mc/java/isim-gecmisi)**: Minecraft oyuncularının isim geçmişi.
-- GET **[/mc/java/sunucu-bilgi](https://rastgele-api.glitch.me/api/mc/java/sunucu-bilgi)**: Sunucu bilgisi aktif kişi falan.
 
 __Dönüştür__
 
