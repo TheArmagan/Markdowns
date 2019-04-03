@@ -11,8 +11,6 @@ __*Base Url:*__ [https://rastgele-api.glitch.me/api](https://rastgele-api.glitch
 - GET **[/mc/java/name-history](https://rastgele-api.glitch.me/api/mc/java/name-history)**: Minecraft Preminum Account Name History.
 - GET **[/nsfw/video](http://rastgele-api.glitch.me/api/nsfw/video)** -  Porn Search For Gifs
 - GET **[/nsfw/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - Porn Search For Videos
-
-
 - More API Soon
 
 
