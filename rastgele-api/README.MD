@@ -1,21 +1,15 @@
 # Rastgele API End Points
 
-**Base:** https://rastgele-api.glitch.me/api
+> API is still under development
+
+### All Content
+
+__*Base Url:*__ [https://rastgele-api.glitch.me/api](https://rastgele-api.glitch.me/api)
 
 - GET **[/ip](https://rastgele-api.glitch.me/api/ip)**: Kendi ipniz.
-- GET **[/rastgele-ip](https://rastgele-api.glitch.me/api/rastgele-ip)**: Rastgele ip üretir.
-- GET **[/rastgele-ip/v6](https://rastgele-api.glitch.me/api/rastgele-ip/v6)**: Rastgele ipV6 Üretir.
-- GET **[/olabilirmi](https://rastgele-api.glitch.me/api/olabilirmi)**: Evet veya hayır ama daha iyisi.
-- GET **[/rastgelesayi](https://rastgele-api.glitch.me/api/rastgelesayi)**: Rastgele sayı oluşturmanızı sağlar.
-- GET **[/lenny](https://rastgele-api.glitch.me/api/lenny)**: Rastgele lenny face atar.. ( ͡° ͜ʖ ͡°)
-- GET **[/havaliyaz](https://rastgele-api.glitch.me/api/havaliyaz)**: Ａｙｎｅｎ  ｂｕ  ｓｅｋｉｌｄｅ  ｙａｚｍａｎｉｚｉ  ｓａｇｌａｒ．(Ve Daha Fazla Şekilde)
-- GET **[/espiri](https://rastgele-api.glitch.me/api/espiri)**: Tonla espiri arasından rastgele bir espiri seçer.  *Bazı insanlar boş daire gibi… Dayayıp döşeyesim geliyor.*
+- GET **[/coolsay](https://rastgele-api.glitch.me/api/havaliyaz)**: Ａｙｎｅｎ  ｂｕ  ｓｅｋｉｌｄｅ  ｙａｚｍａｎｉｚｉ  ｓａｇｌａｒ．(Ve Daha Fazla Şekilde)
 - GET **[/urban](https://rastgele-api.glitch.me/api/urban)**: Urban Dictionary'de birşeyler aratmanızı sağlar.
-- GET **[/yazitura](https://rastgele-api.glitch.me/api/yazitura)**: Yazı, tura atar. Ayrıca Resminide Verir.
-- GET **[/hashtag](https://rastgele-api.glitch.me/api/hashtag)**: why not.
-- GET **[/convert/binary](https://rastgele-api.glitch.me/api/convert/binary)**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
 - GET **[/mc/java/name-history](https://rastgele-api.glitch.me/api/mc/java/name-history)**: Minecraft oyuncularının isim geçmişi.
-
 - GET **[/nsfw/video](http://rastgele-api.glitch.me/api/nsfw/video)** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
 - GET **[/nsfw/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - P()rn() Gifleri (`sex.com, pornhub.com`)
 
@@ -241,6 +235,35 @@ qtype | Query Type `username` or `uuid`
   ]
 }
   ```
+</details>
+
+---
+
+#### Coolsay
+
+GET `http://rastgele-api.glitch.me//api/coolsay?font=DOUBLE&input=REALY%20COOL`
+
+Parameter | Info
+------|------
+input | Text Input
+font  | Text Style (`WIDE & DOUBLE & SNOOPDOGG`)
+COOL  | ℝ𝔼𝔸𝕃𝕐 ℂ𝕆𝕆𝕃
+
+
+<details>
+  <summary>Response</summary>
+  
+```json
+ {
+  "status": "ok",
+  "response": {
+    "font": "DOUBLE",
+    "input": "REALY COOL",
+    "output": "ℝ𝔼𝔸𝕃𝕐 ℂ𝕆𝕆𝕃"
+  }
+} 
+
+```
 </details>
 
 ---
@@ -518,7 +541,7 @@ GET `http://rastgele-api.glitch.me/api/nsfw/video?p=1&q=ass&source=redtube`
 Paramater | Info
 ----------|------
 q | Search Query
-p | Page Number
+p | Page Number `(Default 1)`
 souce | Query Source (`sex & pornhub & xvideos & redtube`)
 
 <details>
@@ -696,3 +719,4 @@ souce | Query Source (`sex & pornhub & xvideos & redtube`)
 }
 ```
 </details>
+
