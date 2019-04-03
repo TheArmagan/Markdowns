@@ -1,5 +1,3 @@
-[baseurl]: https://rastgele-api.glitch.me/api
-
 # Rastgele API End Points
 
 **Base:** https://rastgele-api.glitch.me/api
@@ -241,5 +239,21 @@ GET `https://rastgele-api.glitch.me/api/urban?q=Minecraft`
 
 __Minecraft Java Edition Preminum Account Name History__
 
-GET `[baseurl]/mc/java/name-history?qtype=name&q=Armagann`
+GET `https://rastgele-api.glitch.me/api/mc/java/name-history?qtype=name&q=Armagann`
+`qtype: Query Type (name or uuid)
+q: Query`
 
+<details>
+  <summary>Response</summary>
+  
+  ```json
+  {
+  "status": "ok",
+  "response": [
+    "HDNameHD",
+    "ArmaganDCS",
+    "Armagann"
+  ]
+}
+  ```
+</details>
