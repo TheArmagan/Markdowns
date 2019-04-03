@@ -13,34 +13,12 @@
 - GET **[/urban](https://rastgele-api.glitch.me/api/urban)**: Urban Dictionary'de birşeyler aratmanızı sağlar.
 - GET **[/yazitura](https://rastgele-api.glitch.me/api/yazitura)**: Yazı, tura atar. Ayrıca Resminide Verir.
 - GET **[/hashtag](https://rastgele-api.glitch.me/api/hashtag)**: why not.
-
-__Minecraft__
-
+- GET **[/convert/binary](https://rastgele-api.glitch.me/api/convert/binary)**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
 - GET **[/mc/java/name-history](https://rastgele-api.glitch.me/api/mc/java/name-history)**: Minecraft oyuncularının isim geçmişi.
-
-__Dönüştür__
-
-- GET **[/donustur/binary](https://rastgele-api.glitch.me/api/donustur/binary)**: Metini binarye veya binaryi metine dönüştürmenizi sağlar.
-
-
-<details>
-  <summary>+18 (Click To Toggle)</summary>
-  
-__NSFW__
 
 - GET **[/nsfw/video](http://rastgele-api.glitch.me/api/nsfw/video)** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
 - GET **[/nsfw/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - P()rn() Gifleri (`sex.com, pornhub.com`)
 
-</details>
-
-
-<details>
-  <summary>Notlar</summary>
-  
-> **1.** Apiden gelen her cevap türkçedir.
-
-> **2.** Api rate-limiti __dakikada 100__ istekdir.
-</details>
 
 ---
 
@@ -50,9 +28,9 @@ __NSFW__
 
 GET `https://rastgele-api.glitch.me/api/urban?q=Minecraft`
 
-Query | Info
+Parameter | Info
 ------|------
-q     | Search Query
+q     | Any Word
 
 <details>
   <summary>Response</summary>
@@ -243,9 +221,12 @@ q     | Search Query
 
 #### Minecraft Java Edition Preminum Account Name History
 
-GET `https://rastgele-api.glitch.me/api/mc/java/name-history?qtype=name&q=Armagann`
-`qtype: Query Type (name or uuid)
-q: Query`
+GET `https://rastgele-api.glitch.me/api/mc/java/name-history?qtype=username&q=Armagann`
+
+Parameter | Info
+------|------
+q     | Minecraft Preaminum Account UUID or Username
+qtype | Query Type `username` or `uuid`
 
 <details>
   <summary>Response</summary>
@@ -260,4 +241,458 @@ q: Query`
   ]
 }
   ```
+</details>
+
+---
+
+#### [NSFW] `Adult Gifs`
+
+GET `http://rastgele-api.glitch.me/api/nsfw/gif?p=50&q=ass&source=pornhub`
+
+Parameter | Info
+------|------
+q     | Search Query
+p     | Page Number `(Default 1)`
+source| Query Source (`sex & pornhub`)
+
+<details>
+ <summary>Response</summary>
+
+```json
+{
+  "status": "ok",
+  "response": {
+    "total": 34,
+    "page": "1",
+    "results": [
+      {
+        "title": "asses",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/5990271.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/005/990/271/5990271a.webm"
+        }
+      },
+      {
+        "title": "#ass #big ass #twerk",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/13401142.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/013/401/142/13401142a.webm"
+        }
+      },
+      {
+        "title": "Amazing ass riding",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/2753881.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/002/753/881/2753881a.webm"
+        }
+      },
+      {
+        "title": "ASS",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/15490662.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/015/490/662/15490662a.webm"
+        }
+      },
+      {
+        "title": "Ass, Ass, Ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/12056021.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/012/056/021/12056021a.webm"
+        }
+      },
+      {
+        "title": "Ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/1418511.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/001/418/511/1418511a.webm"
+        }
+      },
+      {
+        "title": "#big-ass #perfect-ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/1078541.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/001/078/541/1078541a.webm"
+        }
+      },
+      {
+        "title": "#ass #cum",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/810421.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/000/810/421/810421a.webm"
+        }
+      },
+      {
+        "title": "#ass #big-ass-jada-stevens",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/873821.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/000/873/821/873821a.webm"
+        }
+      },
+      {
+        "title": "#big-ass #big-ass-white-girls",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/3306541.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/003/306/541/3306541a.webm"
+        }
+      },
+      {
+        "title": "Ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/19546281.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/019/546/281/19546281a.webm"
+        }
+      },
+      {
+        "title": "#ass #elles",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/20611131.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/020/611/131/20611131a.webm"
+        }
+      },
+      {
+        "title": "#ass #asses",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/3791941.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/003/791/941/3791941a.webm"
+        }
+      },
+      {
+        "title": "ASS",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/17520931.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/017/520/931/17520931a.webm"
+        }
+      },
+      {
+        "title": "ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/592452.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/000/592/452/592452a.webm"
+        }
+      },
+      {
+        "title": "#ass #booty",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/8383431.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/008/383/431/8383431a.webm"
+        }
+      },
+      {
+        "title": "#big-ass #big-dick",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/2675431.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/002/675/431/2675431a.webm"
+        }
+      },
+      {
+        "title": "Asses",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/3503931.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/003/503/931/3503931a.webm"
+        }
+      },
+      {
+        "title": "Milf Ass Is The Best Kind Of Ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/4249411.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/004/249/411/4249411a.webm"
+        }
+      },
+      {
+        "title": "#big-ass #big-ass-white-girls #fat-ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/2036481.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/002/036/481/2036481a.webm"
+        }
+      },
+      {
+        "title": "Sexy ass babe",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/20096211.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/020/096/211/20096211a.webm"
+        }
+      },
+      {
+        "title": "ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/425511.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/000/425/511/425511a.webm"
+        }
+      },
+      {
+        "title": "spread ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/13829792.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/013/829/792/13829792a.webm"
+        }
+      },
+      {
+        "title": "#ass #spread",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/5164471.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/005/164/471/5164471a.webm"
+        }
+      },
+      {
+        "title": "Ass fucked",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/5176591.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/005/176/591/5176591a.webm"
+        }
+      },
+      {
+        "title": "Amazing ass ride",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/2753861.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/002/753/861/2753861a.webm"
+        }
+      },
+      {
+        "title": "cum on ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/2122111.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/002/122/111/2122111a.webm"
+        }
+      },
+      {
+        "title": "ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/814231.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/000/814/231/814231a.webm"
+        }
+      },
+      {
+        "title": "sexy ass babe",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/19439781.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/019/439/781/19439781a.webm"
+        }
+      },
+      {
+        "title": "ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/4979041.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/004/979/041/4979041a.webm"
+        }
+      },
+      {
+        "title": "#ass #cum",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/5010401.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/005/010/401/5010401a.webm"
+        }
+      },
+      {
+        "title": "#ass #ass-licking #jada-stevens",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/2064451.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/002/064/451/2064451a.webm"
+        }
+      },
+      {
+        "title": "#ride #sweet-ass",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/814361.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/000/814/361/814361a.webm"
+        }
+      },
+      {
+        "title": "#ass #sexy",
+        "media": {
+          "gif": "https://dl.phncdn.com/gif/18313141.gif",
+          "webm": "https://dl.phncdn.com/pics/gifs/018/313/141/18313141a.webm"
+        }
+      }
+    ]
+  }
+}
+```
+</details>
+
+---
+
+#### [NSFW] `Adult Videos`
+
+GET `http://rastgele-api.glitch.me/api/nsfw/video?p=1&q=ass&source=redtube`
+
+Paramater | Info
+----------|------
+q | Search Query
+p | Page Number
+souce | Query Source (`sex & pornhub & xvideos & redtube`)
+
+<details>
+<summary>Response</summary>
+
+```json
+{
+  "status": "ok",
+  "response": {
+    "total": 20,
+    "page": "1",
+    "results": [
+      {
+        "title": "Delicious ebony ghetto fuck under the trees",
+        "media": {
+          "gif": "https://www.redtube.com/167220",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201203/30/167220/original/5.jpg",
+          "duration": "14:36"
+        }
+      },
+      {
+        "title": "Ebony just wants to suck his dick",
+        "media": {
+          "gif": "https://www.redtube.com/120599",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201201/09/120599/original/14.jpg",
+          "duration": "11:29"
+        }
+      },
+      {
+        "title": "Lil Ass got nailed outdoor",
+        "media": {
+          "gif": "https://www.redtube.com/90913",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201111/04/90913/original/15.jpg",
+          "duration": "13:43"
+        }
+      },
+      {
+        "title": "Big tits babe fucked on sofa",
+        "media": {
+          "gif": "https://www.redtube.com/45464",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201105/09/45464/original/14.jpg",
+          "duration": "12:53"
+        }
+      },
+      {
+        "title": "Hot big ass gets some cum ",
+        "media": {
+          "gif": "https://www.redtube.com/32507",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201002/10/32507/original/16.jpg",
+          "duration": "18:16"
+        }
+      },
+      {
+        "title": "Big ass ebony gets nailed ",
+        "media": {
+          "gif": "https://www.redtube.com/334746",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201212/29/334746/original/10.jpg",
+          "duration": "32:43"
+        }
+      },
+      {
+        "title": "Big Booty Fantasies - Cherokee D Ass ",
+        "media": {
+          "gif": "https://www.redtube.com/873782",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201408/30/873782/original/15.jpg",
+          "duration": "8:07"
+        }
+      },
+      {
+        "title": "Massive Ass Ebony BBW fucks a big black cock",
+        "media": {
+          "gif": "https://www.redtube.com/203784",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201205/27/203784/original/6.jpg",
+          "duration": "24:05"
+        }
+      },
+      {
+        "title": "Cherry gets that big booty pounded",
+        "media": {
+          "gif": "https://www.redtube.com/493668",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201307/09/493668/original/6.jpg",
+          "duration": "6:58"
+        }
+      },
+      {
+        "title": "cherohee d' ass on cam",
+        "media": {
+          "gif": "https://www.redtube.com/383954",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201302/27/383954/original/15.jpg",
+          "duration": "10:18"
+        }
+      },
+      {
+        "title": "Cherokee D'Ass DVD Box Covers",
+        "media": {
+          "gif": "https://www.redtube.com/946148",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201411/05/946148/original/15.jpg",
+          "duration": "4:19"
+        }
+      },
+      {
+        "title": "Cherokee D'Ass: My Friend Wit' The Big Booty ",
+        "media": {
+          "gif": "https://www.redtube.com/786705",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201406/13/786705/original/15.jpg",
+          "duration": "6:20"
+        }
+      },
+      {
+        "title": "Alexis &amp; Cherokee: My Friends Wit' Big Booty",
+        "media": {
+          "gif": "https://www.redtube.com/772825",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201405/31/772825/original/15.jpg",
+          "duration": "5:13"
+        }
+      },
+      {
+        "title": "pinky squirts on cam",
+        "media": {
+          "gif": "https://www.redtube.com/385201",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201303/01/385201/original/2.jpg",
+          "duration": "16:39"
+        }
+      },
+      {
+        "title": "Cherokee &amp; Pinky: My Friends Wit' Big Booty's",
+        "media": {
+          "gif": "https://www.redtube.com/953021",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201411/11/953021/original/13.jpg",
+          "duration": "6:13"
+        }
+      },
+      {
+        "title": "GTA: SA - The Porno Shop (Pinky DVDs)",
+        "media": {
+          "gif": "https://www.redtube.com/890442",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201409/12/890442/original/15.jpg",
+          "duration": "9:00"
+        }
+      },
+      {
+        "title": "GTA:SA - Pinky, Cherokee &amp; BodyXXX Billboards",
+        "media": {
+          "gif": "https://www.redtube.com/895338",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201409/17/895338/original/15.jpg",
+          "duration": "6:05"
+        }
+      },
+      {
+        "title": "Hot model nice ass bikini",
+        "media": {
+          "gif": "https://www.redtube.com/4655821",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201802/23/4655821/original/12.jpg",
+          "duration": "0:17"
+        }
+      },
+      {
+        "title": "Thick Milf Sara Jay Fucked & Smothered By Ebony Cherokee D'Ass!",
+        "media": {
+          "gif": "https://www.redtube.com/13548511",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201902/13/13548511/original/12.jpg",
+          "duration": "11:00"
+        }
+      },
+      {
+        "title": "Cherokee &amp; Beauty Dior Get Pipped Down",
+        "media": {
+          "gif": "https://www.redtube.com/1068625",
+          "thumb": "https://ei.rdtcdn.com/m=e0YH8f/media/videos/201503/14/1068625/original/15.jpg",
+          "duration": "30:13"
+        }
+      }
+    ]
+  }
+}
+```
 </details>
