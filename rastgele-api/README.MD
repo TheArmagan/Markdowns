@@ -1,17 +1,19 @@
-# Rastgele API End Points
+# The Random API End Points
 
 > API is still under development
 
-### All Content
+### Table Of Content
 
 __*Base Url:*__ [https://rastgele-api.glitch.me/api](https://rastgele-api.glitch.me/api)
 
-- GET **[/ip](https://rastgele-api.glitch.me/api/ip)**: Kendi ipniz.
-- GET **[/coolsay](https://rastgele-api.glitch.me/api/havaliyaz)**: Ａｙｎｅｎ  ｂｕ  ｓｅｋｉｌｄｅ  ｙａｚｍａｎｉｚｉ  ｓａｇｌａｒ．(Ve Daha Fazla Şekilde)
-- GET **[/urban](https://rastgele-api.glitch.me/api/urban)**: Urban Dictionary'de birşeyler aratmanızı sağlar.
-- GET **[/mc/java/name-history](https://rastgele-api.glitch.me/api/mc/java/name-history)**: Minecraft oyuncularının isim geçmişi.
-- GET **[/nsfw/video](http://rastgele-api.glitch.me/api/nsfw/video)** - P()rn() videoları (`xvideos, sex.com, pornhub.com, redtube`)
-- GET **[/nsfw/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - P()rn() Gifleri (`sex.com, pornhub.com`)
+- GET **[/coolsay](https://rastgele-api.glitch.me/api/coolsay)**: Text Styling (ＳＯＯ  ＣＯＯＬ)
+- GET **[/urban](https://rastgele-api.glitch.me/api/urban)**: Urban Dictionary Search. 
+- GET **[/mc/java/name-history](https://rastgele-api.glitch.me/api/mc/java/name-history)**: Minecraft Preminum Account Name History.
+- GET **[/nsfw/video](http://rastgele-api.glitch.me/api/nsfw/video)** -  Porn Search For Gifs
+- GET **[/nsfw/gif](http://rastgele-api.glitch.me/api/nsfw/gif)** - Porn Search For Videos
+
+
+- More API Soon
 
 
 ---
