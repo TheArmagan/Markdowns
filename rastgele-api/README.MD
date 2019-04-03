@@ -2,7 +2,7 @@
 
 > API is still under development
 
-### Table Of Content
+### Table Of Contents
 
 __*Base Url:*__ [https://rastgele-api.glitch.me/api](https://rastgele-api.glitch.me/api)
 
