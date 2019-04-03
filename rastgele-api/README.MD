@@ -241,7 +241,7 @@ q     | Search Query
 
 ---
 
-__Minecraft Java Edition Preminum Account Name History__
+### Minecraft Java Edition Preminum Account Name History
 
 GET `https://rastgele-api.glitch.me/api/mc/java/name-history?qtype=name&q=Armagann`
 `qtype: Query Type (name or uuid)
