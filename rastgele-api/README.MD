@@ -46,7 +46,7 @@ __NSFW__
 
 # Usages
 
-__Urban Dictionary__
+#### Urban Dictionary
 
 GET `https://rastgele-api.glitch.me/api/urban?q=Minecraft`
 
@@ -241,7 +241,7 @@ q     | Search Query
 
 ---
 
-### Minecraft Java Edition Preminum Account Name History
+#### Minecraft Java Edition Preminum Account Name History
 
 GET `https://rastgele-api.glitch.me/api/mc/java/name-history?qtype=name&q=Armagann`
 `qtype: Query Type (name or uuid)
