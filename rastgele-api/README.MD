@@ -50,6 +50,10 @@ __Urban Dictionary__
 
 GET `https://rastgele-api.glitch.me/api/urban?q=Minecraft`
 
+Query | Info
+------|------
+q     | Search Query
+
 <details>
   <summary>Response</summary>
   
