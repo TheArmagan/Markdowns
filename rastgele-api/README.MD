@@ -241,7 +241,7 @@ qtype | Query Type `username` or `uuid`
 
 #### Coolsay
 
-GET `http://rastgele-api.glitch.me//api/coolsay?font=DOUBLE&input=REALY%20COOL`
+GET `http://rastgele-api.glitch.me/api/coolsay?font=DOUBLE&input=REALY%20COOL`
 
 Parameter | Info
 ------|------
